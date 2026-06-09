@@ -1,6 +1,6 @@
 # Hi there👋! I'm [Sagar](https://sagar-avhad-swt7sgz.gamma.site/) 🙋‍♂️
 
-_**LATEST UPDATE:**_ _Vibe coding! Exploring AI tools_ 🥽.
+_**LATEST UPDATE:**_ _Vibe coding! Exploring AI, ML, and LLM_ 🥽.
 
 🔭 Currently working on Developing Android applications for the banking industry.
 
